@@ -6,4 +6,4 @@ _Auto-updated by `src/c2/public-log-writer.js` in [emmett](https://github.com/ev
 
 | Date | Entries | Execs |
 |------|---------|-------|
-| _no entries yet — first publish lands shortly_ | — | — |
+| [2026-04-25](./2026-04-25.md) | 6 | GROWTH |
