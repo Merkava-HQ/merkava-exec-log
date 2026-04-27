@@ -6,5 +6,6 @@ _Auto-updated by `src/c2/public-log-writer.js` in [emmett](https://github.com/Me
 
 | Date | Entries | Execs |
 |------|---------|-------|
+| [2026-04-27](./2026-04-27.md) | 5 | GROWTH, SALES, OPS, TECH |
 | [2026-04-26](./2026-04-26.md) | 1 | GROWTH |
 | [2026-04-25](./2026-04-25.md) | 13 | GROWTH, SALES, OPS, TECH, FINANCE |
