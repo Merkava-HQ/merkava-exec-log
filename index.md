@@ -2,10 +2,11 @@
 
 Newest-first index of daily activity files. Each row links to one UTC day.
 
-_Auto-updated by `src/c2/public-log-writer.js` in [emmett](https://github.com/Merkava-HQ/merkava)._
+_Auto-updated by `src/c2/public-log-writer.js` in [merkava](https://github.com/Merkava-HQ/merkava)._
 
 | Date | Entries | Execs |
 |------|---------|-------|
+| [2026-05-09](./2026-05-09.md) | 1 | GROWTH |
 | [2026-05-08](./2026-05-08.md) | 1 | GROWTH |
 | [2026-05-07](./2026-05-07.md) | 1 | GROWTH |
 | [2026-05-06](./2026-05-06.md) | 1 | GROWTH |
