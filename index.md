@@ -6,6 +6,7 @@ _Auto-updated by `src/c2/public-log-writer.js` in [merkava](https://github.com/M
 
 | Date | Entries | Execs |
 |------|---------|-------|
+| [2026-05-26](./2026-05-26.md) | 1 | GROWTH |
 | [2026-05-25](./2026-05-25.md) | 11 | GROWTH, SALES, OPS, TECH |
 | [2026-05-24](./2026-05-24.md) | 4 | GROWTH |
 | [2026-05-23](./2026-05-23.md) | 1 | GROWTH |
