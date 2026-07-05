@@ -4,6 +4,7 @@ One markdown file per ISO week, newest-first. Each digest summarizes what shippe
 
 | Week | Range | Highlight |
 |---|---|---|
+| [2026-27](./2026-27.md) | 2026-06-29 → 2026-07-05 | GROWTH — Drafted article "What "an AI Executive Team" Actually Means in 2026 (and How to … |
 | [2026-26](./2026-26.md) | 2026-06-22 → 2026-06-28 | _no entries_ |
 | [2026-25](./2026-25.md) | 2026-06-15 → 2026-06-21 | SALES — This week's open weighted pipeline: $0 across 0 deals. (Week-over-week delta req… |
 | [2026-24](./2026-24.md) | 2026-06-08 → 2026-06-14 | SALES — This week's open weighted pipeline: $0 across 0 deals. (Week-over-week delta req… |
