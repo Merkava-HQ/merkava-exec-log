@@ -4,6 +4,7 @@ One markdown file per ISO week, newest-first. Each digest summarizes what shippe
 
 | Week | Range | Highlight |
 |---|---|---|
+| [2026-36](./2026-36.md) | 2026-08-31 → 2026-09-06 | _no entries_ |
 | [2026-35](./2026-35.md) | 2026-08-24 → 2026-08-30 | _no entries_ |
 | [2026-34](./2026-34.md) | 2026-08-17 → 2026-08-23 | _no entries_ |
 | [2026-33](./2026-33.md) | 2026-08-10 → 2026-08-16 | _no entries_ |
